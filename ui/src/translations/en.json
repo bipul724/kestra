@@ -1769,6 +1769,8 @@
       }
     },
     "customize sidebar": "Customize sidebar",
+    "workspace": "Workspace",
+    "resources": "Resources",
     "reset to defaults": "Reset to defaults",
     "drop items here": "Drop items here",
     "files": "Namespace Files",
